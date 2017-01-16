@@ -1,0 +1,13 @@
+{
+    "name": "haike123/demo1",
+    "description": "wo shi haoren",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "haibo wang",
+            "email": "2586042677@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
